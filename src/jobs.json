@@ -1,88 +1,89 @@
 {
-  "jobs": [
-    {
-      "id": "1",
-      "title": "Senior React Developer",
-      "type": "Full-Time",
-      "description": "We are seeking a talented Front-End Developer to join our team in Colombo, Sri Lanka. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as React or Angular.",
-      "location": "Colombo, Sri Lanka",
-      "salary": "LKR 200,000 - LKR 300,000",
-      "company": {
-        "name": "TechVision Lanka",
-        "description": "TechVision Lanka is a leading IT solutions provider specializing in web and mobile development. Our goal is to deliver innovative and high-quality digital solutions for businesses across industries.",
-        "contactEmail": "contact@techvision.lk",
-        "contactPhone": "+94 11 456 7890"
+    "jobs": [
+      {
+        "id": "1",
+        "title": "Senior React Developer",
+        "type": "Full-Time",
+        "description": "We are seeking a talented Front-End Developer to join our team in Colombo, Sri Lanka. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as React or Angular.",
+        "location": "Colombo, Sri Lanka",
+        "salary": "LKR 200,000 - LKR 300,000",
+        "company": {
+          "name": "TechVision Lanka",
+          "description": "TechVision Lanka is a leading IT solutions provider specializing in web and mobile development. Our goal is to deliver innovative and high-quality digital solutions for businesses across industries.",
+          "contactEmail": "contact@techvision.lk",
+          "contactPhone": "+94 11 456 7890"
+        }
+      },
+      {
+        "id": "2",
+        "title": "Front-End Engineer (React & Redux)",
+        "type": "Full-Time",
+        "location": "Colombo, Sri Lanka",
+        "description": "Join our team as a Front-End Developer in Colombo. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
+        "salary": "LKR 180,000 - LKR 250,000",
+        "company": {
+          "name": "CodeLabs Sri Lanka",
+          "description": "CodeLabs Sri Lanka is a fast-growing software company specializing in cutting-edge web and mobile applications. We prioritize innovation and high-quality development practices.",
+          "contactEmail": "careers@codelabs.lk",
+          "contactPhone": "+94 76 987 6543"
+        }
+      },
+      {
+        "id": "3",
+        "title": "React.js Developer",
+        "type": "Full-Time",
+        "location": "Colombo, Sri Lanka",
+        "description": "Are you passionate about front-end development? Join our team in Colombo and work on exciting projects that make a difference. We offer competitive compensation and a collaborative work environment where your ideas are valued.",
+        "salary": "LKR 150,000 - LKR 220,000",
+        "company": {
+          "name": "InnovateX Solutions",
+          "description": "InnovateX Solutions is a technology-driven company offering tailored software solutions to global and local clients. We focus on developing scalable and efficient applications.",
+          "contactEmail": "jobs@innovatex.lk",
+          "contactPhone": "+94 77 345 6789"
+        }
+      },
+      {
+        "id": "4",
+        "title": "React Front-End Developer",
+        "type": "Part-Time",
+        "description": "Join our team as a Part-Time Front-End Developer in Colombo. We are looking for a self-motivated individual with a passion for creating engaging user experiences. This position offers flexible hours and the opportunity to work remotely.",
+        "location": "Colombo, Sri Lanka",
+        "salary": "LKR 100,000 - LKR 150,000",
+        "company": {
+          "name": "SoftEdge Solutions",
+          "description": "SoftEdge Solutions is a growing IT company focused on web and mobile application development. Our collaborative work environment fosters innovation and growth.",
+          "contactEmail": "careers@softedge.lk",
+          "contactPhone": "+94 71 123 4567"
+        }
+      },
+      {
+        "id": "5",
+        "title": "Full Stack React Developer",
+        "type": "Full-Time",
+        "description": "Exciting opportunity for a Full-Time Front-End Developer in Colombo. We are seeking a talented individual with a passion for building elegant and scalable web applications. Join our team and make an impact!",
+        "location": "Colombo, Sri Lanka",
+        "salary": "LKR 250,000 - LKR 350,000",
+        "company": {
+          "name": "NextGen Technologies",
+          "description": "NextGen Technologies is a pioneering tech company focusing on software development and digital transformation solutions for enterprises and startups.",
+          "contactEmail": "hr@nextgentech.lk",
+          "contactPhone": "+94 75 789 0123"
+        }
+      },
+      {
+        "id": "6",
+        "title": "React Native Developer",
+        "type": "Full-Time",
+        "description": "Join our team as a Front-End Developer in Colombo. We are looking for a skilled and enthusiastic individual to help us create innovative web solutions. Competitive salary and great benefits package available.",
+        "location": "Colombo, Sri Lanka",
+        "salary": "LKR 300,000 - LKR 400,000",
+        "company": {
+          "name": "Lanka Digital Solutions",
+          "description": "Lanka Digital Solutions is a leading IT company specializing in software development, cloud solutions, and mobile applications for clients worldwide.",
+          "contactEmail": "jobs@lankadigital.lk",
+          "contactPhone": "+94 78 654 3210"
+        }
       }
-    },
-    {
-      "id": "2",
-      "title": "Front-End Engineer (React & Redux)",
-      "type": "Full-Time",
-      "location": "Colombo, Sri Lanka",
-      "description": "Join our team as a Front-End Developer in Colombo. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
-      "salary": "LKR 180,000 - LKR 250,000",
-      "company": {
-        "name": "CodeLabs Sri Lanka",
-        "description": "CodeLabs Sri Lanka is a fast-growing software company specializing in cutting-edge web and mobile applications. We prioritize innovation and high-quality development practices.",
-        "contactEmail": "careers@codelabs.lk",
-        "contactPhone": "+94 76 987 6543"
-      }
-    },
-    {
-      "id": "3",
-      "title": "React.js Developer",
-      "type": "Full-Time",
-      "location": "Colombo, Sri Lanka",
-      "description": "Are you passionate about front-end development? Join our team in Colombo and work on exciting projects that make a difference. We offer competitive compensation and a collaborative work environment where your ideas are valued.",
-      "salary": "LKR 150,000 - LKR 220,000",
-      "company": {
-        "name": "InnovateX Solutions",
-        "description": "InnovateX Solutions is a technology-driven company offering tailored software solutions to global and local clients. We focus on developing scalable and efficient applications.",
-        "contactEmail": "jobs@innovatex.lk",
-        "contactPhone": "+94 77 345 6789"
-      }
-    },
-    {
-      "id": "4",
-      "title": "React Front-End Developer",
-      "type": "Part-Time",
-      "description": "Join our team as a Part-Time Front-End Developer in Colombo. We are looking for a self-motivated individual with a passion for creating engaging user experiences. This position offers flexible hours and the opportunity to work remotely.",
-      "location": "Colombo, Sri Lanka",
-      "salary": "LKR 100,000 - LKR 150,000",
-      "company": {
-        "name": "SoftEdge Solutions",
-        "description": "SoftEdge Solutions is a growing IT company focused on web and mobile application development. Our collaborative work environment fosters innovation and growth.",
-        "contactEmail": "careers@softedge.lk",
-        "contactPhone": "+94 71 123 4567"
-      }
-    },
-    {
-      "id": "5",
-      "title": "Full Stack React Developer",
-      "type": "Full-Time",
-      "description": "Exciting opportunity for a Full-Time Front-End Developer in Colombo. We are seeking a talented individual with a passion for building elegant and scalable web applications. Join our team and make an impact!",
-      "location": "Colombo, Sri Lanka",
-      "salary": "LKR 250,000 - LKR 350,000",
-      "company": {
-        "name": "NextGen Technologies",
-        "description": "NextGen Technologies is a pioneering tech company focusing on software development and digital transformation solutions for enterprises and startups.",
-        "contactEmail": "hr@nextgentech.lk",
-        "contactPhone": "+94 75 789 0123"
-      }
-    },
-    {
-      "id": "6",
-      "title": "React Native Developer",
-      "type": "Full-Time",
-      "description": "Join our team as a Front-End Developer in Colombo. We are looking for a skilled and enthusiastic individual to help us create innovative web solutions. Competitive salary and great benefits package available.",
-      "location": "Colombo, Sri Lanka",
-      "salary": "LKR 300,000 - LKR 400,000",
-      "company": {
-        "name": "Lanka Digital Solutions",
-        "description": "Lanka Digital Solutions is a leading IT company specializing in software development, cloud solutions, and mobile applications for clients worldwide.",
-        "contactEmail": "jobs@lankadigital.lk",
-        "contactPhone": "+94 78 654 3210"
-      }
-    }
-  ]
-}
+    ]
+  }
+  

@@ -1,0 +1,12 @@
+runtime: nodejs20
+env: standard
+automatic_scaling:
+  max_instances: 10  # Optional, removes the warning you saw
+
+handlers:
+  - url: /api/.*
+    script: auto
+  - url: /.*
+    static_files: dist/index.html
+    upload: dist/.*  # Uploads all files in dist/
+    secure: always
